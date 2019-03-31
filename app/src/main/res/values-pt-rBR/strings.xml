@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera2 API Enabler</string>
+    <string name="navigation_drawer_open">Abrir gaveta de navegação</string>
+    <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="action_settings">Configurações</string>
+    <string name="home">Início</string>
+    <string name="about">Sobre</string>
+    <string name="menu_about">Sobre</string>
+    <string name="by_dedraks">por Dedraks</string>
+    <string name="enable_api">Habilitar API</string>
+    <string name="disable_api">Desabilitar API</string>
+    <string name="backup_library">Fazer Backup da Lib</string>
+    <string name="replace_library">Substituir lib</string>
+    <string name="restore_library">Restaurar backup da lib</string>
+    <string name="reboot">Reiniciar</string>
+    <string name="root_needed">É necessário acesso de root para utilizar este app!</string>
+    <string name="about_credits">Essa ferramenta foi criada por Carlos Garcia, conhecido como dedraks.</string>
+    <string name="permission_denied">Permissão Negada!</string>
+</resources>
